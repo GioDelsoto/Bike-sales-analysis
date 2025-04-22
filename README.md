@@ -4,12 +4,13 @@ This project is an exploratory analysis of **bike sales data across Europe**. Th
 
 The dataset used in this analysis was obtained from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe/data) and contains detailed transaction-level information about **bike-related products**, **customer profiles**, and **sales performance**.
 
-## This analysis was developed as part of a data science portfolio to demonstrate skills in data wrangling, visualization, and insight generation using Python and Jupyter Notebook.
+This analysis was developed as part of a data science portfolio to demonstrate skills in data wrangling, visualization, and insight generation using Python and Jupyter Notebook.
 
 ## Folders
 
 - `data/`: Contains the original dataset.
 - `notebook/`: Contains the exploratory analysis in a Jupyter notebook.
+- `images/`: Contains images created for this README
 
 ---
 
@@ -17,24 +18,25 @@ The dataset used in this analysis was obtained from [Kaggle](https://www.kaggle.
 
 ### Customer Demographics
 
-![Age Distribution](age_group.png)
+![Age Distribution](images/age_group.png)
 
 ### Sales and Order Trends Over Time
 
-![Order Quantity](orders_quantity.png)
-![Sales Over Years](sales_over_year.png)
+![Average sales](images/sales_average.png)
+![Sales Over Years](images/sales_over_year.png)
 
-### Profit Distribution by Product Categories
+### Profit and Order quantity Distribution by Product Categories
 
-![Profit Sunburst](sunburst_profit.png)
+![Order Quantity](images/orders_quantity.png)
+![Profit Sunburst](images/sunburst_profit.png)
 
 ### Top Products by Performance
 
 **Top 10 Products by Quantity Sold**
-![Top 10 Quantity](top10_quantity.png)
+![Top 10 Quantity](images/Top_10_Quantity.png)
 
 **Top 10 Products by Profit**
-![Top 10 Profit](top10_profit.png)
+![Top 10 Profit](images/Top_10_Profit.png)
 
 ---
 
