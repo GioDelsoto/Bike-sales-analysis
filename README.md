@@ -17,24 +17,24 @@ The dataset used in this analysis was obtained from [Kaggle](https://www.kaggle.
 
 ### Customer Demographics
 
-![Age Distribution](age_group.png)
+![Age Distribution](../notebook/age_group.png)
 
 ### Sales and Order Trends Over Time
 
-![Order Quantity](orders_quantity.png)
-![Sales Over Years](sales_over_year.png)
+![Order Quantity](../notebook/orders_quantity.png)
+![Sales Over Years](../notebook/sales_over_year.png)
 
 ### Profit Distribution by Product Categories
 
-![Profit Sunburst](sunburst_profit.png)
+![Profit Sunburst](../notebook/sunburst_profit.png)
 
 ### Top Products by Performance
 
 **Top 10 Products by Quantity Sold**
-![Top 10 Quantity](top10_quantity.png)
+![Top 10 Quantity](../notebook/top10_quantity.png)
 
 **Top 10 Products by Profit**
-![Top 10 Profit](top10_profit.png)
+![Top 10 Profit](../notebook/top10_profit.png)
 
 ---
 
