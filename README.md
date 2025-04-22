@@ -24,6 +24,7 @@ This analysis was developed as part of a data science portfolio to demonstrate s
 ### Sales and Order Trends Over Time
 
 ![Average sales](images/sales_average.png)
+
 ![Sales Over Years](images/sales_over_year.png)
 
 ### Profit and Order quantity Distribution by Product Categories
