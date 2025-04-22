@@ -5,6 +5,7 @@ This project is an exploratory analysis of **bike sales data across Europe**. Th
 The dataset used in this analysis was obtained from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe/data) and contains detailed transaction-level information about **bike-related products**, **customer profiles**, and **sales performance**.
 
 This analysis was developed as part of a data science portfolio to demonstrate skills in data wrangling, visualization, and insight generation using Python and Jupyter Notebook.
+This analysis was developed as part of a data science portfolio to demonstrate skills in data wrangling, visualization, and insight generation using Python and Jupyter Notebook.
 
 ## Folders
 
